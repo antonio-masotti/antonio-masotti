@@ -20,7 +20,6 @@
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/symfony/symfony.png"></code>
 
 **🌱 I’m currently learning ...**
-- AWS Cloud Services
 - Improving my [Go](https://github.com/golang) skills <img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/go/go.png">
 - Improving my [Rust](https://github.com/rust-lang) skills <img width="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/rust/rust.png">
 - Getting started with modern DevOps <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/devops/devops.png"></code>  
