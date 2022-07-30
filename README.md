@@ -1,8 +1,7 @@
 ### <p align="center"> Welcome to everybody 👋 </p>
 
 **About me**:
-- 👨‍💻 First	Fullstack-dev at [Bikeleasing-Service](https://bikeleasing.de) 
-- 🧑‍🏫 Student of Linguistics in Göttingen
+- 👨‍💻 Tech-Lead	at [Bikeleasing-Service](https://bikeleasing.de) 
 - 👨‍🍳 Hobby cook 
 
 **My current TechStack:**  
@@ -12,6 +11,7 @@
 <code><img height="40" src="https://avatars.githubusercontent.com/u/41077760?s=200&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="50" src="https://github.com/github/explore/blob/b3ce199648971bf81452dfd7794624b20757ab94/topics/go/go.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/css/css.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/vue/vue.png"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/mysql/mysql.png"></code>
@@ -22,8 +22,7 @@
 **🌱 I’m currently learning ...**
 - Improving my [Go](https://github.com/golang) skills <img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/go/go.png">
 - Improving my [Rust](https://github.com/rust-lang) skills <img width="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/rust/rust.png">
-- Getting started with modern DevOps <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/devops/devops.png"></code>  
-- Playing around with a couple of other languages: PHP 8, Js (Vuejs mostly), Typescript, Julia
+- Getting started with modern DevOps/GitOps <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/devops/devops.png"></code>  
 
 **👨‍💼 In the past I worked mostly with**:
 - Machine Learning with PyTorch and Tensorflow <code><img height="60" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/ai/ai.png"></code>
