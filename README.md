@@ -2,9 +2,18 @@
 
 
 ## About me:
-- 👨‍💻 Tech Lead & Cloud Developer at [Bikeleasing-Service](https://bikeleasing.de) 
-- 👨‍🍳 Hobby: Data Science, Maths, Cooking, Reading, Music
-
+```kotlin
+val toni = developer {
+    about {
+        name = "Toni Masotti"
+        company = "Bikeleasing"
+        role = "Head of Software Development"
+        secretRole = "Coding enthusiast"
+        hobbies = listOf("Data Science", "AI", "Cooking", "Reading")
+    }
+    tech("Kotlin", "Typescript", "Rust", "Terraform", "much more")
+}
+```
 
 ## **My current TechStack:**  
 
